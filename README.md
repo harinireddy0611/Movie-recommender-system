@@ -20,7 +20,7 @@ The recommender system uses the **IMDb Dataset of Top 1000 Movies and TV Shows**
 
 ## Repository
 
-You can access the project's repository [here](https://github.com/yourusername/movie-recommender-system).
+You can access the project's repository [here](https://github.com/harinireddy0611/Movie-recommender-system).
 
 ## File Structure
 
